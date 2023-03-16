@@ -1,15 +1,12 @@
-# NiceHashBotX
-**NHBotX is a Bot for extended order management, manual or automatic, at NiceHash.**  
-From buyers for buyers developed further.
+# NiceHashBotX-MCL
+**NHBotX-MCL is a Bot for extended order management, manual or automatic, at NiceHash.**  
 
 - [Features](#features)
 - [Get the Bot](#get)
 - [How to run?](#run)
 
 **Beware of scammers!** Only use our official pages and contacts:  
-
-Media: [Telegram](https://t.me/nicehashbotx) / [Discord](https://discord.gg/quDQsxHCGT) / [Bitcointalk](https://bitcointalk.org/index.php?topic=5266034.0) / [Github](https://github.com/Qwertzi01/NiceHashBot-X)  
-Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)  
+ 
 
 # <a name="features"></a> Built-in Features
 
@@ -38,7 +35,6 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 
 # <a name="get"></a> How to get the Bot
 
-Contact for further infos and price: nicehashbotx@outlook.com
 
 ![NiceHashBotX](https://user-images.githubusercontent.com/7136516/199654805-5b8ece38-bb70-4542-a261-aa42932f32f2.jpg)
 
